@@ -1,2 +1,2 @@
 # python
-python files
+A place for Python scripts I've written.
