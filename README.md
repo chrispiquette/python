@@ -1,7 +1,7 @@
 # python
 This is place for Python scripts I've written.
 
-
+[Here's a JSON API extraction and transformation to BigQuery script I wrote (ETL)](https://github.com/chrispiquette/python/blob/master/json_to_bigquery_etl_pipeline.ipynb).
 
 
 The file "pageviews_by_week_pandas.py" in this repository generates the following graph:
